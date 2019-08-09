@@ -268,21 +268,32 @@ p {
     justify-content: center;
 }
 
+.about-content {
+    width: 800px;
+    margin: 0 auto;
+}
+
 .info {
-    /* margin: 15px; */
-    padding: 50px;
     display: inline-block;
     width: 45%;
-    margin-top: 50px;
-    /* margin-left: 50px; */
-    /* margin-bottom: 50px; */
+    margin: 15px;
+}
+
+.info h1 {
+    margin-top: 10px;
 }
 
 button {
     border: 0.5px solid black;
     border-radius: 5px;
-    /* margin-top: 50px; */
-    padding: 5px 20px;
+    margin-top: 30px;
+    padding: 10px 25px;
+    font-size: medium
+}
+
+.conclusion {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .bottom-content {
