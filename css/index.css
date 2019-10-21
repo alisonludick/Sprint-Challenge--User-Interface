@@ -292,8 +292,10 @@ button {
 }
 
 .conclusion {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .bottom-content {
@@ -313,6 +315,7 @@ button {
 footer {
     width: 100%;
     background: black;
+    margin-bottom: 25px;
 }
 
 footer nav {
